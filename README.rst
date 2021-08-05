@@ -58,7 +58,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
+    cookiecutter https://github.com/zak-s-brown/cookiecutter-pypackage.git
 
 Then:
 
